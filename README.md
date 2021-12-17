@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Anders
 
-<!--
-**andershup/andershup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front-end-developer based in Camden Town London. I am available for work both here in London and remotely. 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://react-e-commerce-site-anders-olesen.netlify.app/
+- 🌱 I’m currently learning React. 
+- 👯 I’m looking to collaborate on any good ideas that I like. 
+- 💬 Ask me about anything you might be stuck on. Chances are I have been stuck on the same thing.
+- 📫 How to reach me: anders242@gmail.com
+- ⚡ Fun fact: I'm funny
+

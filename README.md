@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any good ideas that I like. 
 - 💬 Ask me about anything you might be stuck on. Chances are I have been stuck on the same thing.
 - 📫 How to reach me: anders242@gmail.com
-- ⚡ Fun fact: I'm funny
+- ⚡ Fun fact: I love all this....
 
